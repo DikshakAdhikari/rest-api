@@ -1,0 +1,8 @@
+. Register a user //Some data will be sent in this like users name, email, password and confirm password. Then we'll store these info in our database
+. Login a user
+. Who am I
+. Add a new product
+. Update a product
+. Get all plroducts
+. Get single product
+. Delete a product
