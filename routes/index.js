@@ -1,7 +1,7 @@
 import express from "express";
+import { registerController } from "../controllers";
 
 const router= express.Router();
-import {registerController} from "../config/controllers";
 
 
 // router.post('/api/register', (req,res,next)=> {
